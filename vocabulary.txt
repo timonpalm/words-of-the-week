@@ -1,0 +1,1730 @@
+#separator:tab
+#html:false
+Kloster	Monastery
+Monastery	Kloster
+Mönch	mock
+mock	Mönch
+etw. ausschütten	to spill sth.
+to spill sth.	etw. ausschütten
+Besteck	cutlery
+cutlery	Besteck
+etwas festbinden	to lash sth.
+to lash sth.	etwas festbinden
+Grenze	frontier
+frontier	Grenze
+binden	to tether
+to tether	binden
+Sehensucht	longing
+longing	Sehensucht
+hocken	to perch
+to perch	hocken
+etwas gestehen	to confess sth.
+to confess sth.	etwas gestehen
+Elch	moose
+moose	Elch
+Barmherzigkeit	compassion
+compassion	Barmherzigkeit
+Dankbarkeit	gratitude
+gratitude	Dankbarkeit
+Achtsamkeit	mindfulness
+mindfulness	Achtsamkeit
+Garderobe	cloackroom
+cloackroom	Garderobe
+gelegentlich	occasionally
+occasionally	gelegentlich
+von etwas absteigen	to dismount of sth.
+to dismount of sth.	von etwas absteigen
+Steckdose	power socket
+power socket	Steckdose
+berüchtigt	notorious
+notorious	berüchtigt
+Zustimmung	consent
+consent	Zustimmung
+etwas schleppen	to haul sth.
+to haul sth.	etwas schleppen
+Schraube	screw / bold
+screw / bold	Schraube
+Scheu	awe
+awe	Scheu
+etwas streuen	to scatter
+to scatter	etwas streuen
+demütigend	humbling
+humbling	demütigend
+Sägewerk	sawmill
+sawmill	Sägewerk
+Schlaflosigkeit	insomnia
+insomnia	Schlaflosigkeit
+taub	numb
+numb	taub
+Verbindung	conjuction
+conjuction	Verbindung
+verfallen	to decay
+to decay	verfallen
+etwas nutzbar machen	to harness sth.
+to harness sth.	etwas nutzbar machen
+Verständnis	comprehension
+comprehension	Verständnis
+Gewölbe	vault
+vault	Gewölbe
+Geduld	patience
+patience	Geduld
+Folter	torture
+torture	Folter
+ersticken	to suffocate
+to suffocate	ersticken
+nachtaktiv	nocturnal
+nocturnal	nachtaktiv
+tagaktiv	diurnal
+diurnal	tagaktiv
+kahl	bald
+bald	kahl
+etwas aufrechterhalten	to sustain sth.
+to sustain sth.	etwas aufrechterhalten
+mein Beileid	my condolences
+my condolences	mein Beileid
+Angriff	assault
+assault	Angriff
+Erholung	recreation
+recreation	Erholung
+Hilfe	aid
+aid	Hilfe
+Zufall	coincidence
+coincidence	Zufall
+Reh	deer
+deer	Reh
+Robbe	seal
+seal	Robbe
+Baumschule	nursery
+nursery	Baumschule
+Festland	mainland
+mainland	Festland
+Angel	fishing rod
+fishing rod	Angel
+Umstände	cirmustances
+cirmustances	Umstände
+unbefugtes Betreten	trespassing
+trespassing	unbefugtes Betreten
+Verwandte	relatives
+relatives	Verwandte
+zerbröckeln	to crumble
+to crumble	zerbröckeln
+lästern	to blaspheme
+to blaspheme	lästern
+faul/vergammelt 	rotten
+rotten	faul/vergammelt 
+Blähungen	bloatings
+bloatings	Blähungen
+Kolben	cob
+cob	Kolben
+Trauer	sorrow
+sorrow	Trauer
+Idee / Vorstellung	notion
+notion	Idee / Vorstellung
+Verpackung	packaging
+packaging	Verpackung
+etwas ausdrücken	to express sth.
+to express sth.	etwas ausdrücken
+großzügig	generous
+generous	großzügig
+ermutigen	to encourage
+to encourage	ermutigen
+abscheulich	abhorrent
+abhorrent	abscheulich
+Rasenmäher	lawn mower
+lawn mower	Rasenmäher
+Koriander	cilantro
+cilantro	Koriander
+lauschen	to eavesdrop
+to eavesdrop	lauschen
+Schornsteinfeger	chimney sweeper
+chimney sweeper	Schornsteinfeger
+Salat / Kraut	lettuce
+lettuce	Salat / Kraut
+schnauben	to snort
+to snort	schnauben
+Immobilien	realty
+realty	Immobilien
+Verzicht	waiver
+waiver	Verzicht
+besiegt	defeated
+defeated	besiegt
+Verstand	wits
+wits	Verstand
+lebhaft	vividly
+vividly	lebhaft
+Erbe	legacy
+legacy	Erbe
+Wunder	marvel
+marvel	Wunder
+Fehler	flaw
+flaw	Fehler
+abspritzen	hosing down
+hosing down	abspritzen
+Leistung / Kunststück	feat
+feat	Leistung / Kunststück
+aufällige Einsichten	striking insights
+striking insights	aufällige Einsichten
+beraten	to deliberate
+to deliberate	beraten
+gegenseitig	mutual
+mutual	gegenseitig
+die Locken	lure
+lure	die Locken
+Rückblicke	hindsights
+hindsights	Rückblicke
+proben	to rehears
+to rehears	proben
+Kalbfleisch	veal
+veal	Kalbfleisch
+bummeln	to stroll
+to stroll	bummeln
+Belastung	strain
+strain	Belastung
+Dinkel	spelt
+spelt	Dinkel
+ertrage es mit mir	bear with me
+bear with me	ertrage es mit mir
+nähen	sew
+sew	nähen
+Bejahung	affirmation
+affirmation	Bejahung
+hart	harsh
+harsh	hart
+geizig	stingy
+stingy	geizig
+nach etwas süchtig sein	to be hooked on sth.
+to be hooked on sth.	nach etwas süchtig sein
+blödsinn	nonsense
+nonsense	blödsinn
+Unterführung	underpass
+underpass	Unterführung
+Hochbett	bunk bed
+bunk bed	Hochbett
+inländisch / häuslich	domestic
+domestic	inländisch / häuslich
+Waschbär	raccon
+raccon	Waschbär
+Genehmigung	approval
+approval	Genehmigung
+Zigeuner	gypsy
+gypsy	Zigeuner
+Unkraut	weeds
+weeds	Unkraut
+Hecke	hedge
+hedge	Hecke
+Heu	hay
+hay	Heu
+schmieden	smithing
+smithing	schmieden
+zähmen	to tame
+to tame	zähmen
+Spatz	sparrow
+sparrow	Spatz
+Inbus	allen key / hex wrench
+allen key / hex wrench	Inbus
+Sturm	tempest
+tempest	Sturm
+Interessengruppen	stakeholder
+stakeholder	Interessengruppen
+Gier	greed
+greed	Gier
+etwas verstopfen	to clog
+to clog	etwas verstopfen
+Nelke	clove
+clove	Nelke
+verabscheuen	to abhor
+to abhor	verabscheuen
+anschließend	subsequently
+subsequently	anschließend
+anzügliche Sprüche an Frauen	cat calling
+cat calling	anzügliche Sprüche an Frauen
+Spottdrossel	mockingbird
+mockingbird	Spottdrossel
+höflich	polite
+polite	höflich
+die Schale / Hülle	peel
+peel	die Schale / Hülle
+Entzündung	inflammation
+inflammation	Entzündung
+Gewinde	thread
+thread	Gewinde
+mitfühlen	To empathize
+To empathize	mitfühlen
+Mitgefühl	compassion
+compassion	Mitgefühl
+Steinbruch	quarry
+quarry	Steinbruch
+Redaktion	editorail staff
+editorail staff	Redaktion
+Birne	pear
+pear	Birne
+deftig	hearty
+hearty	deftig
+etwas beheben	to remedy sth.
+to remedy sth.	etwas beheben
+Abhilfe / Mittel / Heilmittel	remedy
+remedy	Abhilfe / Mittel / Heilmittel
+etwas erfassen	to grasp sth.
+to grasp sth.	etwas erfassen
+Pflaster	band aid
+band aid	Pflaster
+Anordnung	disposition
+disposition	Anordnung
+Flossen	fins
+fins	Flossen
+Tinte	ink
+ink	Tinte
+Wohnungen (sehr klein)	dwellings
+dwellings	Wohnungen (sehr klein)
+Belastung	burdon
+burdon	Belastung
+überholen	to overtake
+to overtake	überholen
+Strömung	current
+current	Strömung
+würfeln	to roll the dice / to toss the dice
+to roll the dice / to toss the dice	würfeln
+Ohrwurm	earwig
+earwig	Ohrwurm
+gründlich	thoroughtly
+thoroughtly	gründlich
+berechtigt sein	to be entitled
+to be entitled	berechtigt sein
+husten	to cough
+to cough	husten
+Gelenk	joint
+joint	Gelenk
+Gliederschmerzen	body aches
+body aches	Gliederschmerzen
+Unglück	adversity
+adversity	Unglück
+Internat	boarding school
+boarding school	Internat
+Lappen	rag
+rag	Lappen
+Sieb	sieve
+sieve	Sieb
+demütig sein	to be humble
+to be humble	demütig sein
+sprechen (negative)	to utter
+to utter	sprechen (negative)
+subtil	subtly
+subtly	subtil
+unerschütterlich	irrepressible
+irrepressible	unerschütterlich
+schmutzig	filthy
+filthy	schmutzig
+verkohlt	charred
+charred	verkohlt
+gerührt	stirred
+stirred	gerührt
+springen	to leap
+to leap	springen
+verzweifeln	to despair
+to despair	verzweifeln
+Streit	quarrels
+quarrels	Streit
+Krampfadern	varicose ulcer
+varicose ulcer	Krampfadern
+Durchfall	diarrhea
+diarrhea	Durchfall
+Kalk	lime
+lime	Kalk
+Sternschnuppe	shooting star
+shooting star	Sternschnuppe
+sparsam	thrifty
+thrifty	sparsam
+etwas sehr genau prüfen	to scrutinise
+to scrutinise	etwas sehr genau prüfen
+behindern / verlangsamen	to hinder
+to hinder	behindern / verlangsamen
+honorieren	to renumerate
+to renumerate	honorieren
+Vergütigung	renumeration
+renumeration	Vergütigung
+nähren / pflegen	to nurture
+to nurture	nähren / pflegen
+verschlechtern	to deteriorate
+to deteriorate	verschlechtern
+umarmen / härtzlich empfangen	to embrace
+to embrace	umarmen / härtzlich empfangen
+Kontakt aufnehmen (formal)	to liaise with
+to liaise with	Kontakt aufnehmen (formal)
+die harte Wahrheit	the stark reality
+the stark reality	die harte Wahrheit
+schleichender Verdacht	sneaking suspicion
+sneaking suspicion	schleichender Verdacht
+Vorwürfe	accusations
+accusations	Vorwürfe
+jmd etwas vorwerfen	to accuse sb. of sth.
+to accuse sb. of sth.	jmd etwas vorwerfen
+etwas stark verdächtigen	to strongly suspect
+to strongly suspect	etwas stark verdächtigen
+Atemzug	gasp
+gasp	Atemzug
+etwas riskieren	to hazard sth.
+to hazard sth.	etwas riskieren
+reif	ripe / mature
+ripe / mature	reif
+Schläger	rackets
+rackets	Schläger
+die Wade	calf
+calf	die Wade
+Zahnschmerzen	toothache
+toothache	Zahnschmerzen
+satt sein	to be fed up
+to be fed up	satt sein
+Glockenspiel	chime
+chime	Glockenspiel
+unheimlich	eerily
+eerily	unheimlich
+Ermordung	assassination
+assassination	Ermordung
+Attentäter	assassin
+assassin	Attentäter
+Badehose	swimming trunks
+swimming trunks	Badehose
+nuscheln	to mumble
+to mumble	nuscheln
+Offenlegung	disclosure
+disclosure	Offenlegung
+wichtigste Besorgnis	overriding concern
+overriding concern	wichtigste Besorgnis
+wichtige Rolle	prominent role
+prominent role	wichtige Rolle
+folgenschwere Entscheidung	momentous decision
+momentous decision	folgenschwere Entscheidung
+entscheidener Faktor	decisive factor
+decisive factor	entscheidener Faktor
+von größter Bedeutung	paramount importance
+paramount importance	von größter Bedeutung
+Leitthema / Leitfaden	leading issue
+leading issue	Leitthema / Leitfaden
+quälend	tomentous
+tomentous	quälend
+bösartig	vicious
+vicious	bösartig
+die Zecken	ticks
+ticks	die Zecken
+Eigenschaften	traits
+traits	Eigenschaften
+Alleskönner	Jack of all traits
+Jack of all traits	Alleskönner
+jmd der gerne das Komando angibt	bossyboots
+bossyboots	jmd der gerne das Komando angibt
+Geizkragen	cheapskate
+cheapskate	Geizkragen
+Partymuffel	partypooper
+partypooper	Partymuffel
+jmd., der die Stimmung runterzieht	wetblanket
+wetblanket	jmd., der die Stimmung runterzieht
+Nachlass / Erbe	inheritance
+inheritance	Nachlass / Erbe
+Naht	seam
+seam	Naht
+eigenartig	peculier
+peculier	eigenartig
+überwälltigend	overpowering
+overpowering	überwälltigend
+Perücke	wig
+wig	Perücke
+schnuppern	to catch a whiff
+to catch a whiff	schnuppern
+besänftigen/beruhigen	pacifying
+pacifying	besänftigen/beruhigen
+herrlich	glorious
+glorious	herrlich
+bezaubernd	adorable
+adorable	bezaubernd
+atemberaubend	stunning
+stunning	atemberaubend
+prächtig	splendid
+splendid	prächtig
+zauberhaft	enchanting
+enchanting	zauberhaft
+Treue	fidelity
+fidelity	Treue
+treu sein	to be faithful
+to be faithful	treu sein
+schwer	severe
+severe	schwer
+mach kein großes Spile /Lärm	don't make a foss
+don't make a foss	mach kein großes Spile /Lärm
+besorgt sein	being beside of oneself
+being beside of oneself	besorgt sein
+einlösen	to redeem
+to redeem	einlösen
+verpflichtend	compulory
+compulory	verpflichtend
+greifbar	tangible
+tangible	greifbar
+Nähe	vicinity
+vicinity	Nähe
+unverzichtbar	indispensable
+indispensable	unverzichtbar
+klar / rein	lucid
+lucid	klar / rein
+herrlich / schön	delightful
+delightful	herrlich / schön
+Zuflucht	sactuary
+sactuary	Zuflucht
+verzinkt	galvanized
+galvanized	verzinkt
+das Reich	realm
+realm	das Reich
+kommerzialisiert	commoditized
+commoditized	kommerzialisiert
+Erbstück	heirloom
+heirloom	Erbstück
+vermitteln	to convey
+to convey	vermitteln
+erliegen	to succumb
+to succumb	erliegen
+unerlaubt	illicit
+illicit	unerlaubt
+vorläufige	preliminary
+preliminary	vorläufige
+schreien	to yell
+to yell	schreien
+murmeln	to mutter
+to mutter	murmeln
+schimpfen	to rant
+to rant	schimpfen
+abgelegen	secluded
+secluded	abgelegen
+riesig (offen)	vast
+vast	riesig (offen)
+weitläufig	sprawling
+sprawling	weitläufig
+baufällig	ramshackle
+ramshackle	baufällig
+Hütten	shacks
+shacks	Hütten
+Vernunft	sanity
+sanity	Vernunft
+Gesundheitsüberprüfung	sanity checks
+sanity checks	Gesundheitsüberprüfung
+Oberbegriff	generic term
+generic term	Oberbegriff
+formbar	malleable
+malleable	formbar
+Einnahmen	revenue
+revenue	Einnahmen
+einfühlsam	perceptiv
+perceptiv	einfühlsam
+bemüht	ambitious
+ambitious	bemüht
+gewisshaft	conscientious
+conscientious	gewisshaft
+hartnäckig	obstinate / stubborn
+obstinate / stubborn	hartnäckig
+neurotisch	neurotic
+neurotic	neurotisch
+voreingenommen	prejudiced
+prejudiced	voreingenommen
+teilnahmslos	apathatic
+apathatic	teilnahmslos
+grausam	cruel
+cruel	grausam
+neugirig	inquisitive
+inquisitive	neugirig
+die Tücke	peril
+peril	die Tücke
+Das Auftreten 	demeanor
+demeanor	Das Auftreten 
+Nachbesprechung	debrief
+debrief	Nachbesprechung
+gefährlich	perilously
+perilously	gefährlich
+jammern	whining
+whining	jammern
+schief	skewed
+skewed	schief
+ein Gedicht aufsagen	to recite a poem
+to recite a poem	ein Gedicht aufsagen
+anglotzen	eyeballing
+eyeballing	anglotzen
+regieren	to rule
+to rule	regieren
+Förderband	conveyor belt
+conveyor belt	Förderband
+jmd anflehen	to beg someone
+to beg someone	jmd anflehen
+hängenbleiben	snagging
+snagging	hängenbleiben
+knurren	to snarl
+to snarl	knurren
+vorsichtig	gingerly
+gingerly	vorsichtig
+vorbestimmt	preordained
+preordained	vorbestimmt
+Zorn	fury
+fury	Zorn
+ausführlich	verbose
+verbose	ausführlich
+inhaftiert	detained
+detained	inhaftiert
+Vokal	vowel
+vowel	Vokal
+Verschriebung	prescription
+prescription	Verschriebung
+Rechtsstreit	litigation
+litigation	Rechtsstreit
+Voreinstellung	preset
+preset	Voreinstellung
+Fischhändler	fishmonger
+fishmonger	Fischhändler
+Metzger	butcher
+butcher	Metzger
+Schreibwarenladen	stationary store
+stationary store	Schreibwarenladen
+fade (fader Geschmack)	Bland
+Bland	fade (fader Geschmack)
+stumpf	blant
+blant	stumpf
+Halsschmerzen	soar throat
+soar throat	Halsschmerzen
+lästig	bothersome
+bothersome	lästig
+kraftvoll	vigorously
+vigorously	kraftvoll
+Zünder	igniter
+igniter	Zünder
+suchen	to seek
+to seek	suchen
+gehorsam	obedience
+obedience	gehorsam
+Treibsand	quicksand
+quicksand	Treibsand
+wütend	furious
+furious	wütend
+Gefahr	peril
+peril	Gefahr
+unterernähert	malnourished
+malnourished	unterernähert
+übertreffen	surpassing
+surpassing	übertreffen
+eingebildet	conceited
+conceited	eingebildet
+qualvoll	excruciating
+excruciating	qualvoll
+berauschend	exhilarating
+exhilarating	berauschend
+Angst haben	anxious about
+anxious about	Angst haben
+häckeln	to crocket
+to crocket	häckeln
+kribbeln	to prickle
+to prickle	kribbeln
+pochen	to throb
+to throb	pochen
+Kündigung	Termination
+Termination	Kündigung
+to depict	darstellen
+darstellen	to depict
+Nahrungssuche	foraging
+foraging	Nahrungssuche
+Haftung	liability
+liability	Haftung
+allgegenwärtig	ubiquitous
+ubiquitous	allgegenwärtig
+Kummer	sorrow
+sorrow	Kummer
+Schmerztabletten	painkillers
+painkillers	Schmerztabletten
+lehmig	loamy
+loamy	lehmig
+Mangel	alack
+alack	Mangel
+empörend	outrageous
+outrageous	empörend
+Kirchkern	cherry stone
+cherry stone	Kirchkern
+Ordnungsamt	regulatory office
+regulatory office	Ordnungsamt
+gutartig	benign
+benign	gutartig
+bösartig 2	malicious
+malicious	bösartig 2
+leicht/einfach	readily
+readily	leicht/einfach
+Knappheit	scarcity
+scarcity	Knappheit
+Heiligkeit	sacredness
+sacredness	Heiligkeit
+zufällig	serendipitous
+serendipitous	zufällig
+Anstand	courtesy
+courtesy	Anstand
+der Kern von / die Kernaussage ...	the crux of
+the crux of	der Kern von / die Kernaussage ...
+streuen	to stray
+to stray	streuen
+Verzweigung	ramification
+ramification	Verzweigung
+zerschlagen	shattered
+shattered	zerschlagen
+Kopfhaut	scalp
+scalp	Kopfhaut
+Zulassung	admission
+admission	Zulassung
+zulässig	admissible
+admissible	zulässig
+ähnelt	resembles
+resembles	ähnelt
+Ansporn	incentive
+incentive	Ansporn
+schwerfällig	cumbersome / lumbersome
+cumbersome / lumbersome	schwerfällig
+nebeneinander	juxtaposition
+juxtaposition	nebeneinander
+Die Chancen standen auf unserer Seite	the odds were on us
+the odds were on us	Die Chancen standen auf unserer Seite
+ganzheitlich	holistic
+holistic	ganzheitlich
+fördern	to foster
+to foster	fördern
+Behinderung / Hinderniss	impediment
+impediment	Behinderung / Hinderniss
+einflößen	instilling
+instilling	einflößen
+zusammenhängend	cohesive
+cohesive	zusammenhängend
+flink	nimble
+nimble	flink
+Benehmen	conduct
+conduct	Benehmen
+Igel	hedgehog
+hedgehog	Igel
+veraltet	obsolete
+obsolete	veraltet
+Säule	pillar
+pillar	Säule
+are deemed	gelten als
+gelten als	are deemed
+normale Abnutzung	normal wear and tear
+normal wear and tear	normale Abnutzung
+bekloppt	dorky
+dorky	bekloppt
+Molke	whey
+whey	Molke
+genügen	to suffice
+to suffice	genügen
+etwas ausschlagen	to struck out
+to struck out	etwas ausschlagen
+Angeblich	alleged
+alleged	Angeblich
+Sparsamkeit	parsimony
+parsimony	Sparsamkeit
+übereinstimmen	coincide
+coincide	übereinstimmen
+Der Gang (Flur, Reihe)	aisle
+aisle	Der Gang (Flur, Reihe)
+vorstehen	protrude
+protrude	vorstehen
+unbesetzt	vacant
+vacant	unbesetzt
+Erhebung	elicitation
+elicitation	Erhebung
+täuschen	deceive
+deceive	täuschen
+aufdringlich	intrusive
+intrusive	aufdringlich
+sich etw. entziehen	to elude sth
+to elude sth	sich etw. entziehen
+entgangen	eluded
+eluded	entgangen
+Einhaltung	compliance
+compliance	Einhaltung
+Mut / Courage	courage
+courage	Mut / Courage
+Wirksamkeit	efficacy
+efficacy	Wirksamkeit
+verlockend	enticing
+enticing	verlockend
+in die Irre	to astray
+to astray	in die Irre
+Vorurteil	prejudice
+prejudice	Vorurteil
+ändern	to alter
+to alter	ändern
+lodern	to blaze
+to blaze	lodern
+gefährden	jeopartise
+jeopartise	gefährden
+Rechtsanältin	attorney
+attorney	Rechtsanältin
+fest angestellt	tenured
+tenured	fest angestellt
+to spare	übrig haben
+übrig haben	to spare
+obsolete	veraltet
+veraltet	obsolete
+Granatapfel	pomegranate
+pomegranate	Granatapfel
+caveat	Vorbehalt
+Vorbehalt	caveat
+Mixer	Blender
+Blender	Mixer
+Bagger	exuvator
+exuvator	Bagger
+Aufschub	deferral
+deferral	Aufschub
+aufgeschoben	deferred
+deferred	aufgeschoben
+Brunnen	fountain
+fountain	Brunnen
+to advocate with.	Etwas befürworten/ sich für etwas einsetzen 
+Etwas befürworten/ sich für etwas einsetzen 	to advocate with.
+Leitungen	conduits
+conduits	Leitungen
+holistic	ganzheitlich
+ganzheitlich	holistic
+to foster	fördern
+fördern	to foster
+impediment	Behinderung
+Behinderung	impediment
+instilling	einflößen
+einflößen	instilling
+cohesive	zusammenhängend
+zusammenhängend	cohesive
+nimble	flink
+flink	nimble
+conduct	das Benehmen
+das Benehmen	conduct
+resignation letter	Rücktrittsschreiben
+Rücktrittsschreiben	resignation letter
+hedgehog	Igel
+Igel	hedgehog
+pillar	Säule
+Säule	pillar
+normal wear and tear	normale Abnutzung
+normale Abnutzung	normal wear and tear
+dorky	bekloppt
+bekloppt	dorky
+maternity leave	Mutterschaftsurlaub
+Mutterschaftsurlaub	maternity leave
+whey	Molke
+Molke	whey
+lingering	verweilen
+verweilen	lingering
+flattering	schmeichelhaft
+schmeichelhaft	flattering
+to reckon with	mit etwas rechnen
+mit etwas rechnen	to reckon with
+to reckon	etwas meinen
+etwas meinen	to reckon
+ferocious	wild
+wild	ferocious
+sluice / floodgate	Schleuse
+Schleuse	sluice / floodgate
+on the behalf of	im Namen
+im Namen	on the behalf of
+habitual	gewohnheitsmäßig
+gewohnheitsmäßig	habitual
+Bube (Kartenspiel)	Jack
+Jack	Bube (Kartenspiel)
+reckless	rücksichtslos
+rücksichtslos	reckless
+admittance	Zulassung
+Zulassung	admittance
+basil	Basilikum
+Basilikum	basil
+potluck	Buffet (jeder bringt was mit und alle teilen)
+Buffet (jeder bringt was mit und alle teilen)	potluck
+scarcely	kaum
+kaum	scarcely
+extinguisher	Feuerlöscher
+Feuerlöscher	extinguisher
+deduction	Abzug
+Abzug	deduction
+Perforator	Locher
+Locher	Perforator
+prospect	Aussicht
+Aussicht	prospect
+relentless	unerbitterlich
+unerbitterlich	relentless
+scintillating	funkelnd
+funkelnd	scintillating
+concise	prägnant
+prägnant	concise
+baby stroller	Kinderwagen
+Kinderwagen	baby stroller
+Hagebutte	rose hip
+rose hip	Hagebutte
+Hocker	stool
+stool	Hocker
+zielstrebig	purpuseful
+purpuseful	zielstrebig
+gähnen	yawning
+yawning	gähnen
+dosieren	to dose
+to dose	dosieren
+der Popel	booger
+booger	der Popel
+verwöhnt	spoiled
+spoiled	verwöhnt
+deliberately	absichtlich
+absichtlich	deliberately
+attire	Kleidung
+Kleidung	attire
+demotion	Degradierung
+Degradierung	demotion
+pacifier	Schnuller
+Schnuller	pacifier
+impartial	unparteiisch
+unparteiisch	impartial
+purse	Geldbeutel
+Geldbeutel	purse
+fortune	Vermögen
+Vermögen	fortune
+nefarious	schändlich
+schändlich	nefarious
+to elicit	hervorrufen
+hervorrufen	to elicit
+to fancy	etwas haben wollen / etwas machen wollen
+etwas haben wollen / etwas machen wollen	to fancy
+freundschaftlich	amicable
+amicable	freundschaftlich
+readable	lesbar
+lesbar	readable
+blass	pale
+pale	blass
+Bettdecke	duvet
+duvet	Bettdecke
+Vorteile	perks
+perks	Vorteile
+explanatory	erläuternd
+erläuternd	explanatory
+loan	darlehen/leien
+darlehen/leien	loan
+Heugabel	pitchfork
+pitchfork	Heugabel
+Frachtbrief	consignment note
+consignment note	Frachtbrief
+Kleiderhaken	clothes hock
+clothes hock	Kleiderhaken
+proliferate	vermehren
+vermehren	proliferate
+sludge	Schlamm
+Schlamm	sludge
+vorherrschend	prevailing
+prevailing	vorherrschend
+coaxing	überredend
+überredend	coaxing
+protruding	hervorstehend
+hervorstehend	protruding
+sagging	schlaff
+schlaff	sagging
+incisors	Schneidezähne
+Schneidezähne	incisors
+congestion	Stau
+Stau	congestion
+torpid	träge
+träge	torpid
+fatique	Ermüdung
+Ermüdung	fatique
+weaned	entwöhnt
+entwöhnt	weaned
+Hosenstall	fly
+fly	Hosenstall
+eminent	bedeutend
+bedeutend	eminent
+proximity	Nähe
+Nähe	proximity
+thicket	Dickicht
+Dickicht	thicket
+verleiten	to tempt
+to tempt	verleiten
+Des Weiteren	Furthermore
+Furthermore	Des Weiteren
+Außerdem	Besides that
+Besides that	Außerdem
+Einschätzung	assessment
+assessment	Einschätzung
+consignment	Fracht
+Fracht	consignment
+Dennoch	Nonetheless
+Nonetheless	Dennoch
+verpfichtet sein	be obliged
+be obliged	verpfichtet sein
+atrocious	scheußlich
+scheußlich	atrocious
+profusely	reichlich
+reichlich	profusely
+fared	erging es
+erging es	fared
+exacerbates	verschlimmert
+verschlimmert	exacerbates
+lament	Klage
+Klage	lament
+respiration	Atmung
+Atmung	respiration
+purification	Reinigung
+Reinigung	purification
+noxious	schädlich
+schädlich	noxious
+insidious	heimtückisch
+heimtückisch	insidious
+adhesive	Klebstoff
+Klebstoff	adhesive
+unscheinbar	nondescript
+nondescript	unscheinbar
+Zahnrad	gear wheel
+gear wheel	Zahnrad
+gesprächig	talkactive
+talkactive	gesprächig
+to mingle	sich vermischen
+sich vermischen	to mingle
+immortal	unsterblich
+unsterblich	immortal
+derided	verspottet
+verspottet	derided
+adage	Sprichwort
+Sprichwort	adage
+craned open	aufgerissen
+aufgerissen	craned open
+personify	personifizieren
+personifizieren	personify
+Gummistiefel	rubber boots
+rubber boots	Gummistiefel
+to weep	weinen
+weinen	to weep
+Schimmel	mold
+mold	Schimmel
+esteem	Wertschätzung
+Wertschätzung	esteem
+aufeinanderfolgend	consecutively
+consecutively	aufeinanderfolgend
+to plunder	plündern
+plündern	to plunder
+profuse	stark/üppig
+stark/üppig	profuse
+Klettersteig	via ferrata
+via ferrata	Klettersteig
+solidify	verfestigen
+verfestigen	solidify
+fate	Schicksal
+Schicksal	fate
+to kink	knicken
+knicken	to kink
+to veer	abbiegen/ausscheren
+abbiegen/ausscheren	to veer
+glaring	grell
+grell	glaring
+circumfence	Umfang
+Umfang	circumfence
+susceptible	anfällig
+anfällig	susceptible
+tassel	Quaste
+Quaste	tassel
+damp	feucht
+feucht	damp
+aftereffects	Nachwirkungen
+Nachwirkungen	aftereffects
+übertreiben	to exaggerate
+to exaggerate	übertreiben
+Berufsausbildung	vocational training
+vocational training	Berufsausbildung
+sty	Stall
+Stall	sty
+contemplate	überlegen/erwägen
+überlegen/erwägen	contemplate
+to debilitate	entkräften/schwächen
+entkräften/schwächen	to debilitate
+engorge	anschwellen
+anschwellen	engorge
+dislodging	verdrängen
+verdrängen	dislodging
+mocked	verspottet
+verspottet	mocked
+harped on	weiter harren
+weiter harren	harped on
+prodding	anstupsen
+anstupsen	prodding
+to gauge	messen
+messen	to gauge
+to dispute	streiten
+streiten	to dispute
+ailment	das Leiden
+das Leiden	ailment
+cure	Heilung
+Heilung	cure
+horrendous	schrecklich
+schrecklich	horrendous
+debris	Trümmer
+Trümmer	debris
+clingy	anhänglich
+anhänglich	clingy
+acquaintance	Bekanntschaft
+Bekanntschaft	acquaintance
+Ferris wheel	Riesenrad
+Riesenrad	Ferris wheel
+mammels	Säugetiere
+Säugetiere	mammels
+limp	schlaff
+schlaff	limp
+jaws	Kiefer
+Kiefer	jaws
+suspended	ausgesetzt
+ausgesetzt	suspended
+pearl	Perle
+Perle	pearl
+Füßgelenk umknicken	twisted the ankle
+twisted the ankle	Füßgelenk umknicken
+contagious	ansteckend
+ansteckend	contagious
+smurfs	Schlümpfe
+Schlümpfe	smurfs
+Blätterteig	puff pastry
+puff pastry	Blätterteig
+huff	schnaufen
+schnaufen	huff
+irritable	reizbar
+reizbar	irritable
+to crackle	knistern
+knistern	to crackle
+caw	krächzen
+krächzen	caw
+Schlagsahne	whipped cream
+whipped cream	Schlagsahne
+hoarder	Hamsterer
+Hamsterer	hoarder
+clutter	Unordnung
+Unordnung	clutter
+cluttered	überladen
+überladen	cluttered
+compulsive	zwanghaft
+zwanghaft	compulsive
+resurgence	Wiederaufleben
+Wiederaufleben	resurgence
+reverberate	nachhallen
+nachhallen	reverberate
+lutes	Lauten
+Lauten	lutes
+apeshit	Affenscheiße
+Affenscheiße	apeshit
+distress	Not
+Not	distress
+lethal	tödlich
+tödlich	lethal
+lulled	eingelullt
+eingelullt	lulled
+precarious	prekär
+prekär	precarious
+cuffs	Manschetten
+Manschetten	cuffs
+tongs	Zange
+Zange	tongs
+ladle	Kelle
+Kelle	ladle
+verspielt	playfull
+playfull	verspielt
+to elaborate	ausarbeiten
+ausarbeiten	to elaborate
+to deduce	folgern
+folgern	to deduce
+disperse	zerstreuen
+zerstreuen	disperse
+Hoden	testicles
+testicles	Hoden
+desolve	auflösen
+auflösen	desolve
+aufstoßen	to burp
+to burp	aufstoßen
+spießig	stuffy
+stuffy	spießig
+Zuwendung	affection
+affection	Zuwendung
+jmd hinhalten	stall someone
+stall someone	jmd hinhalten
+etwas enthüllen	to reveil sth.
+to reveil sth.	etwas enthüllen
+prevalence	Häufigkeit
+Häufigkeit	prevalence
+ergründen	fathomed
+fathomed	ergründen
+nachteilig	disadvantageous
+disadvantageous	nachteilig
+Wahlkampf	election campaign
+election campaign	Wahlkampf
+Gips	plaster
+plaster	Gips
+Gips am arm	a cast
+a cast	Gips am arm
+zappeln	to fidget
+to fidget	zappeln
+Aufsichtsperson	inviligator
+inviligator	Aufsichtsperson
+faszinierend	intriguing
+intriguing	faszinierend
+jmd lobel	to praise someone
+to praise someone	jmd lobel
+Verräter	traitor
+traitor	Verräter
+herausstechen	stand out
+stand out	herausstechen
+provozieren	provoke
+provoke	provozieren
+etwas herunterspielen	to downplay sth.
+to downplay sth.	etwas herunterspielen
+Glaubwürdigkeit	credibility
+credibility	Glaubwürdigkeit
+tiefgreifend	profound
+profound	tiefgreifend
+Flugbahn	trajectory
+trajectory	Flugbahn
+zurückweisen	dismiss
+dismiss	zurückweisen
+Ich bin begeistert auf etwas	I am keen on sth.
+I am keen on sth.	Ich bin begeistert auf etwas
+bereitwillig/gespannt auf etwas	to be eager on sth.
+to be eager on sth.	bereitwillig/gespannt auf etwas
+weich	mellow
+mellow	weich
+seicht	shallow
+shallow	seicht
+quariert	quartered
+quartered	quariert
+Rucola	arugula
+arugula	Rucola
+Türspion	door viewer
+door viewer	Türspion
+Samt	velvet
+velvet	Samt
+abgestanden	stale/flat
+stale/flat	abgestanden
+epiphany	Offenbarung
+Offenbarung	epiphany
+jmd verunsichern	to unsettle someone
+to unsettle someone	jmd verunsichern
+Christi Himmelfahrt	ascension day
+ascension day	Christi Himmelfahrt
+unvermeidlich	inevitable
+inevitable	unvermeidlich
+ample	reichlich/genügend
+reichlich/genügend	ample
+to compliment each other	sich gegenseitig ergänzen
+sich gegenseitig ergänzen	to compliment each other
+stark zusammenhängen	closely related
+closely related	stark zusammenhängen
+verflochten	interwined
+interwined	verflochten
+dignity	die Würde
+die Würde	dignity
+prevalent	weit verbreitet
+weit verbreitet	prevalent
+egibility	Berechtigung
+Berechtigung	egibility
+incur	eingehen
+eingehen	incur
+endowed	ausgestattet
+ausgestattet	endowed
+Proficiency	Kompetenz
+Kompetenz	Proficiency
+to endevor	bemühen
+bemühen	to endevor
+treason / betrayal	Verrat
+Verrat	treason / betrayal
+tray	Ofenblech
+Ofenblech	tray
+resurrection	Auferstehung
+Auferstehung	resurrection
+stain	Fleck
+Fleck	stain
+lint	Fussel
+Fussel	lint
+I have to dispose of this	Ich muss das entsorgen
+Ich muss das entsorgen	I have to dispose of this
+ground meat	Hackfleisch
+Hackfleisch	ground meat
+antler	Geweih
+Geweih	antler
+heap	Haufen
+Haufen	heap
+broth / stock	Brühe
+Brühe	broth / stock
+distiction	Unterscheidung·
+Unterscheidung·	distiction
+pass with distinction	mit Auszeichnung bestanden
+mit Auszeichnung bestanden	pass with distinction
+cooking extractor	Kochabzug
+Kochabzug	cooking extractor
+itinerary	Reiseplan/Reiseroute
+Reiseplan/Reiseroute	itinerary
+diligent	fleißig
+fleißig	diligent
+diligence	Sorgfalt
+Sorgfalt	diligence
+dazzling	blendend
+blendend	dazzling
+collar	Kragen
+Kragen	collar
+genuine	echt
+echt	genuine
+to pop a pimple	Pickel ausdrücken
+Pickel ausdrücken	to pop a pimple
+to audit	prüfen
+prüfen	to audit
+disseminate	verbreiten
+verbreiten	disseminate
+plethora	Fülle
+Fülle	plethora
+benificiaries	Begünstigte
+Begünstigte	benificiaries
+paucity	Mangel
+Mangel	paucity
+akin to	verwandt mit
+verwandt mit	akin to
+hinges on	hängt davon ab
+hängt davon ab	hinges on
+circumscription	Umschreibung
+Umschreibung	circumscription
+to spur	anspornen
+anspornen	to spur
+to excel	übertreffen
+übertreffen	to excel
+aviation	Luftfahrt
+Luftfahrt	aviation
+contemporary	zeitgenössisch
+zeitgenössisch	contemporary
+pertinent	relevant
+relevant	pertinent
+to merit	verdienen
+verdienen	to merit
+debt	Schulden
+Schulden	debt
+seagull	Möwe
+Möwe	seagull
+persuade	überreden
+überreden	persuade
+the wake	die Totenwache
+die Totenwache	the wake
+flour	Mehl
+Mehl	flour
+hinge	Scharnier
+Scharnier	hinge
+sympatisch	pleasent/friendly
+pleasent/friendly	sympatisch
+dragenfly	Libelle
+Libelle	dragenfly
+being content	zufrieden sein
+zufrieden sein	being content
+porcelain	Porzellan
+Porzellan	porcelain
+pike	Spieß
+Spieß	pike
+gracefully	anmutig/reizend
+anmutig/reizend	gracefully
+reassuring	beruhigend
+beruhigend	reassuring
+soundness	Solidität
+Solidität	soundness
+repercussions	Auswirkungen
+Auswirkungen	repercussions
+parsimonious	sparsam
+sparsam	parsimonious
+deterrents	Abschreckungsmittel
+Abschreckungsmittel	deterrents
+ascertain	ermitteln
+ermitteln	ascertain
+admittedly	freilich/zugegeben
+freilich/zugegeben	admittedly
+ideation	Idee
+Idee	ideation
+scrutiny	Prüfung
+Prüfung	scrutiny
+provenance	Herkunft
+Herkunft	provenance
+lineage	Abstammung
+Abstammung	lineage
+authoritative	maßgeblich
+maßgeblich	authoritative
+to complicate	erschweren
+erschweren	to complicate
+adept	geschickt
+geschickt	adept
+Wagen auf einer Parade	float
+float	Wagen auf einer Parade
+to impose	auferlegen
+auferlegen	to impose
+neat	sauber/reinlich/nett/elegant
+sauber/reinlich/nett/elegant	neat
+oversight	Aufsicht
+Aufsicht	oversight
+breaded	paniert
+paniert	breaded
+celeriac	Sellerie
+Sellerie	celeriac
+untenable	unhaltbar
+unhaltbar	untenable
+chronicled	aufgezeichent
+aufgezeichent	chronicled
+retention	Zurückbehaltung
+Zurückbehaltung	retention
+away game	Auswärtsspiel
+Auswärtsspiel	away game
+courageous	mutig
+mutig	courageous
+oumph	Schwung
+Schwung	oumph
+to scold someone	jmd. beschimpfen
+jmd. beschimpfen	to scold someone
+grateful	dankbar
+dankbar	grateful
+winter bliss	Winterglück
+Winterglück	winter bliss
+fallow	Brache
+Brache	fallow
+indulge	frönen/nachgeben/sich hingeben
+frönen/nachgeben/sich hingeben	indulge
+head start	Vorsprung
+Vorsprung	head start
+to pledge	verpfänden
+verpfänden	to pledge
+lopsided	schief
+schief	lopsided
+hostage	Geisel
+Geisel	hostage
+Unmut	displeasure
+displeasure	Unmut
+verlängert	prolonged
+prolonged	verlängert
+alluded	angedeutet
+angedeutet	alluded
+presently	gegenwärtig
+gegenwärtig	presently
+to entrench	verschanzen
+verschanzen	to entrench
+whims	Launen
+Launen	whims
+Hereinafter	Im Folgenden
+Im Folgenden	Hereinafter
+pervasive	allgegenwärtig
+allgegenwärtig	pervasive
+ascertained	festgestellt/ermittelt
+festgestellt/ermittelt	ascertained
+reluctant	widerwillig
+widerwillig	reluctant
+absent	abwesend
+abwesend	absent
+conspicuously	auffällig
+auffällig	conspicuously
+owe	verdanken
+verdanken	owe
+virtuous	tugendhaft
+tugendhaft	virtuous
+to preclude	ausschließen
+ausschließen	to preclude
+das Inkrafttreten	The entry into force
+The entry into force	das Inkrafttreten
+tweezers	Pinzette
+Pinzette	tweezers
+whitsun	Pfingsten
+Pfingsten	whitsun
+to squint	schielen
+schielen	to squint
+to taper	verjüngend
+verjüngend	to taper
+etwas ausklingen lassen	let it taper
+let it taper	etwas ausklingen lassen
+Verlosung	raffle
+raffle	Verlosung
+to resonate	mitschwingen
+mitschwingen	to resonate
+withdrawal	Rückzug/Abzug
+Rückzug/Abzug	withdrawal
+Alltäglichkeit	mundanity
+mundanity	Alltäglichkeit
+bereft	beraubt
+beraubt	bereft
+exasperated	verärgert
+verärgert	exasperated
+to soothe	beruhigen
+beruhigen	to soothe
+parsnips	Pastinaken
+Pastinaken	parsnips
+drängeln	to jostle
+to jostle	drängeln
+meticulous	sorgfältig
+sorgfältig	meticulous
+grief	Kummer
+Kummer	grief
+disgust	Kummer
+Kummer	disgust
+ledge	Leiste/Schlucht
+Leiste/Schlucht	ledge
+knitwear	Strickwaren
+Strickwaren	knitwear
+to vendomn	abonnieren
+abonnieren	to vendomn
+farewell	Abschied
+Abschied	farewell
+Spargel	asparagus
+asparagus	Spargel
+bang for buck	Preis-Leistungs-Verhältnis
+Preis-Leistungs-Verhältnis	bang for buck
+einschüchtern	intimidate
+intimidate	einschüchtern
+squirming	windend
+windend	squirming
+solace	Trost
+Trost	solace
+arduous	mühsam
+mühsam	arduous
+excavation	Ausgrabung
+Ausgrabung	excavation
+laborious	mühsam
+mühsam	laborious
+limbs	Glieder
+Glieder	limbs
+vigilant	wachsam
+wachsam	vigilant
+tamper	Manipulation
+Manipulation	tamper
+ein ziehen (im Bein)	a pulling sensation
+a pulling sensation	ein ziehen (im Bein)
+carousel	Karussell
+Karussell	carousel
+aspirations	Bestrebung/Hoffnung
+Bestrebung/Hoffnung	aspirations
+affairs	Angelegenheiten
+Angelegenheiten	affairs
+meager	dürftig
+dürftig	meager
+to yearn	sich sehnen
+sich sehnen	to yearn
+wreath	Kranz
+Kranz	wreath
+to bargain	verhandeln
+verhandeln	to bargain
+mourning	Trauer
+Trauer	mourning
+vindicated	bestätigt
+bestätigt	vindicated
+to groom	pflegen (z.B. wenn Affen sich pflegen)
+pflegen (z.B. wenn Affen sich pflegen)	to groom
+mating season	Paarungszeit
+Paarungszeit	mating season
+reciprocal	gegenseitig
+gegenseitig	reciprocal
+to reciprocate	erwidern
+erwidern	to reciprocate
+pronounced	ausgeprägt
+ausgeprägt	pronounced
+necktie	Krawatte
+Krawatte	necktie
+solicitor	Rechtsanwalt
+Rechtsanwalt	solicitor
+animal shelter	Tierheim
+Tierheim	animal shelter
+to vow	schwören/ feierlich geloben
+schwören/ feierlich geloben	to vow
+miraculous	wunder-
+wunder-	miraculous
+seesaw	Wippe
+Wippe	seesaw
+sparkling wine	Sekt
+Sekt	sparkling wine
+abandonment	Aufgabe (etwas hinwerfen)
+Aufgabe (etwas hinwerfen)	abandonment
+entrails	Eingeweide
+Eingeweide	entrails
+to garner	sammeln
+sammeln	to garner
+flounder	Flunder (Fisch)
+Flunder (Fisch)	flounder
+complexion	Teint
+Teint	complexion
+crain	Kranich
+Kranich	crain
+tentatively	vorläufig
+vorläufig	tentatively
+stork	Storch
+Storch	stork
+atteria	Atterie
+Atterie	atteria
+vein	Vene
+Vene	vein
+perplexity	Verwirrung
+Verwirrung	perplexity
+extrapolation	Hochrechnung
+Hochrechnung	extrapolation
+culminate	gipfeln
+gipfeln	culminate
+evoke	hervorrufen
+hervorrufen	evoke
+envy	Neid
+Neid	envy
+wand	Zauberstab
+Zauberstab	wand
+deluged	überschwemmt
+überschwemmt	deluged
+poignant	ergreifend
+ergreifend	poignant
+menace	Bedrohung
+Bedrohung	menace
+subdue	unterwerfen
+unterwerfen	subdue
+stoutly	kräftig
+kräftig	stoutly
+grim	grimmig
+grimmig	grim
+sought (seek)	gesucht
+gesucht	sought (seek)
+famine	Hungersnot
+Hungersnot	famine
+bewilderment	Verwirrung
+Verwirrung	bewilderment
+predicament	Dilemma
+Dilemma	predicament
+savory food	herzhaftes Essen
+herzhaftes Essen	savory food
+funnel	Trichter
+Trichter	funnel
+mere	bloß
+bloß	mere
+sinister	unheimlich
+unheimlich	sinister
+wheat	Weizen
+Weizen	wheat
+insatiable	unersättlich
+unersättlich	insatiable
+affluent	wohlhabend
+wohlhabend	affluent
+to endeavour	bemühen
+bemühen	to endeavour
+refrain from	unterlassen
+unterlassen	refrain from
+spouses	Ehepartner
+Ehepartner	spouses
+to elope	durchbrennen
+durchbrennen	to elope
+bedevilled	geplagt
+geplagt	bedevilled
+chasm	Kluft
+Kluft	chasm
+superfluous	überflüssig
+überflüssig	superfluous
+yeast	Hefe
+Hefe	yeast
+tendon	Sehne
+Sehne	tendon
+frankly	ehrlich gesagt
+ehrlich gesagt	frankly
+to be lean	schlank sein
+schlank sein	to be lean
+opacity	fettleibig
+fettleibig	opacity
+footbridge	Steg
+Steg	footbridge
+animosities	Feindseligkeiten
+Feindseligkeiten	animosities
+measles	Masern
+Masern	measles
+veneer	Furnier
+Furnier	veneer
+concoction	Gebräu
+Gebräu	concoction
+teetering	schwankend
+schwankend	teetering
+verge	Rand
+Rand	verge
+attentive	aufmerksam
+aufmerksam	attentive
+dreaded	gefürchtet
+gefürchtet	dreaded
+brass	Messing
+Messing	brass
+vain	vergeblich
+vergeblich	vain
+don't take it in vain	nimm es nicht umsonst
+nimm es nicht umsonst	don't take it in vain
+cease	aufhören
+aufhören	cease
+niggling	nörgelnd
+nörgelnd	niggling
+devotedly	hingebungsvoll
+hingebungsvoll	devotedly
+to wage a war	Krieg führen
+Krieg führen	to wage a war
+to perish	verenden
+verenden	to perish
+pliers	Zange
+Zange	pliers
+ore	Erz
+Erz	ore
+cairn	Steinhaufen
+Steinhaufen	cairn
+secular	weltlich
+weltlich	secular
+bigotry	Fanatismus
+Fanatismus	bigotry
+decipher	entziffern
+entziffern	decipher
+crusade	Kreuzzug
+Kreuzzug	crusade
+woefully	erbärmlich
+erbärmlich	woefully
+urge	Drang
+Drang	urge
+cod	Kabeljau
+Kabeljau	cod
+unprecedented	beispiellos
+beispiellos	unprecedented
+Gartenschlauch	garden hose
+garden hose	Gartenschlauch
+justifiable	vertretbar
+vertretbar	justifiable
+pasture	Weide
+Weide	pasture
+folding rule	Zollstock
+Zollstock	folding rule
+to deal with sth.	sich mit etwas beschäftigen
+sich mit etwas beschäftigen	to deal with sth.
+torch	Fackel
+Fackel	torch
+endorsement	Billigung
+Billigung	endorsement
+to endorse	unterstützen
+unterstützen	to endorse
+to vacate	räumen
+räumen	to vacate
+premises	Firmenglände
+Firmenglände	premises
+scurried	huschte
+huschte	scurried
+blowtorch	Lötlampe
+Lötlampe	blowtorch
+gullies	Schluchten
+Schluchten	gullies
+tributary	Nebenfluss
+Nebenfluss	tributary
+bedrock	Grundstein
+Grundstein	bedrock
+striation	Streifen
+Streifen	striation
+solemn	feierlich
+feierlich	solemn
+devotion	Hingabe
+Hingabe	devotion
+perpetuate	verewigen
+verewigen	perpetuate
+devine	göttlich
+göttlich	devine
+to err	irren
+irren	to err
+sewage	Abwasser
+Abwasser	sewage
+gullibility	Leichtgläubigkeit
+Leichtgläubigkeit	gullibility
+tearing	reißen
+reißen	tearing
+lavatory	Toilette
+Toilette	lavatory
+utmost	äußerste
+äußerste	utmost
+chore	lästige Pflicht
+lästige Pflicht	chore
+curd	Quark
+Quark	curd
