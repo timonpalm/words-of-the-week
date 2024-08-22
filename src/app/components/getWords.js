@@ -1,4 +1,4 @@
-function getWords() {
+function getWords(n_words = 10) {
 
   var fs = require("fs");
   var text = fs.readFileSync("./vocabulary.txt", "utf-8");
@@ -10,8 +10,14 @@ function getWords() {
     vocabulary.push(textByLine[i].split("\t"));
   }
 
-  var word = vocabulary[Math.floor(Math.random()*vocabulary.length)];
-  return [word];
+  var chosen_words = [];
+  
+  for (var i = 0; i < n_words; i++) {
+    var random_index = Math.floor(Math.random() * vocabulary.length);
+    chosen_words.push(vocabulary[random_index]);
+  }    
+
+  return chosen_words;
 }
   
 export default function WordList() {
