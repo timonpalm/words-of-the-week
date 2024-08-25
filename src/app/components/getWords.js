@@ -1,34 +1,16 @@
-function getWords(n_words = 10) {
+// chooses n random words from a list of English-German word pairs
+export function getWords(vocabulary, n_words = 10) {
+    var chosen_words = [];
 
-  var fs = require("fs");
-  var text = fs.readFileSync("./vocabulary.txt", "utf-8");
-  var textByLine = text.split("\n")
-
-  var vocabulary = [];
-
-  for (var i = 0; i < textByLine.length; i+=2) {
-    vocabulary.push(textByLine[i].split("\t"));
-  }
-
-  var chosen_words = [];
+    console.log(vocabulary);
   
-  for (var i = 0; i < n_words; i++) {
-    var random_index = Math.floor(Math.random() * vocabulary.length);
-    chosen_words.push(vocabulary[random_index]);
-  }    
+    // choose n random words
+    for (var i = 0; i < n_words; i++) {
+        var random_index = Math.floor(Math.random() * vocabulary.length);
+        var word = vocabulary[random_index];
+        console.log(word);
+        chosen_words.push(vocabulary[random_index]);
+    }    
 
-  return chosen_words;
-}
-  
-export default function WordList() {
-  console.log("words");
-  //console.log(words);
-
-  const words = getWords();
-
-  return (
-    <ul>
-      {words.map(([en, de]) => <li key={en}>{en} - {de}</li>)}
-    </ul>
-  );
+    return chosen_words;
 }

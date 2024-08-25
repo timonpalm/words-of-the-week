@@ -1,9 +1,29 @@
 import NewWordsButton from "./components/newWordsButton";
-import WordList from "./components/getWords";
+import WordList from "./components/wordList";
 import Link from "next/link";
+import { getWords } from "./components/getWords";
+
+
+// parse vocabulary from text file
+function create_vocabulary() {
+  // read file
+  var fs = require("fs");
+  var text = fs.readFileSync("./vocabulary.txt", "utf-8");
+  var textByLine = text.split("\n")
+
+  var vocabulary = [];
+
+  // split english-german
+  for (var i = 0; i < textByLine.length; i+=2) {
+    vocabulary.push(textByLine[i].split("\t"));
+  }
+
+  return vocabulary;
+}
 
 export default function Home() {
-  //const words = getWords();
+  const vocabulary = create_vocabulary();
+  var words = getWords(vocabulary);
 
   return <>
     <header className="flex justify-between items-center mb-4">
@@ -12,7 +32,7 @@ export default function Home() {
       Settings
       </Link>
     </header>
-    <WordList></WordList>
+    <WordList words={words}></WordList>
     <NewWordsButton></NewWordsButton>
   </>
 }
