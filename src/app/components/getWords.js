@@ -1,8 +1,6 @@
 // chooses n random words from a list of English-German word pairs
 export function getWords(vocabulary, n_words = 10) {
     var chosen_words = [];
-
-    console.log(vocabulary);
   
     // choose n random words
     for (var i = 0; i < n_words; i++) {

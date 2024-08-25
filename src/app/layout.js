@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Spit Some Words",
+  title: "WORDS OF THE WEEK",
 };
 
 export default function RootLayout({ children }) {
