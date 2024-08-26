@@ -3,6 +3,7 @@ import React from "react";
 import WordListContainer from "./components/wordListContainer";
 import { getWords } from "./components/getWords";
 import Countdown from "./components/countdown";
+import { calcTargetDate } from "@/utils/calcTargetDate";
 
 // parse vocabulary from text file
 function create_vocabulary() {
@@ -25,13 +26,13 @@ export default async function Home() {
   
   const vocabulary = create_vocabulary();
   var initWords = await getWords(vocabulary);
-
-  //flex justify-between items-center mb-4 bg-slate-900 px-5 py-2 rounded
+  
+  var targetDate = calcTargetDate(1, 8);
 
   return <>
     <header> 
       <h1 className="text-2xl">WORDS OF THE WEEK</h1>
-      <Countdown></Countdown>
+      <Countdown targetDate={targetDate}></Countdown>
       <Link className="border border-slate-300 text-slate-300 px-2 py-1 rounded hover:bg-slate-700 focus-within:bg-slate-700 outline-none" href="/settings">
       Settings
       </Link>
