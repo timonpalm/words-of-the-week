@@ -26,8 +26,10 @@ export default async function Home() {
   const vocabulary = create_vocabulary();
   var initWords = await getWords(vocabulary);
 
+  //flex justify-between items-center mb-4 bg-slate-900 px-5 py-2 rounded
+
   return <>
-    <header className="flex justify-between items-center mb-4">
+    <header> 
       <h1 className="text-2xl">WORDS OF THE WEEK</h1>
       <Countdown></Countdown>
       <Link className="border border-slate-300 text-slate-300 px-2 py-1 rounded hover:bg-slate-700 focus-within:bg-slate-700 outline-none" href="/settings">

@@ -28,6 +28,6 @@ export default function Countdown({ targetTime}) {
     }, [])
 
     return (
-        <span className='text-red-700 text-'>{hours}:{minutes}:{seconds} h</span>
+        <span className='text-red-700 mx-5 text-2xl'>{hours}:{minutes}:{seconds} h</span>
     )
 }

@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+header{
+    display: flex;
+    justify-content: space-between; 
+    place-items: center;
+    margin-bottom: 1rem;
+    background-color: rgb(17 24 39);
+    padding-left: 1.25rem;
+    padding-right: 1.25rem; 
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.25rem;
+}
