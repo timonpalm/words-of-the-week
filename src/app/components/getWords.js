@@ -1,5 +1,5 @@
 // chooses n random words from a list of English-German word pairs
-export async function getWords(vocabulary, n_words = 10) {
+export async function getWords(vocabulary, n_words) {
     var chosen_words = [];
   
     // choose n random words

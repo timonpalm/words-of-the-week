@@ -4,6 +4,7 @@ import WordListContainer from "./components/wordListContainer";
 import { getWords } from "./components/getWords";
 import Countdown from "./components/countdown";
 import { calcTargetDate } from "@/utils/calcTargetDate";
+import { promises as fs } from 'fs';
 
 // parse vocabulary from text file
 function create_vocabulary() {
@@ -22,12 +23,22 @@ function create_vocabulary() {
   return vocabulary;
 }
 
+async function loadSettings() {
+  
+  const file = await fs.readFile(process.cwd() + '/settings.json', 'utf8');
+  const settings = JSON.parse(file);
+
+  return settings;
+}
+
 export default async function Home() {
+
+  var settings = await loadSettings();
   
   const vocabulary = create_vocabulary();
-  var initWords = await getWords(vocabulary);
+  var initWords = await getWords(vocabulary, settings.numberOfWords);
   
-  var targetDate = calcTargetDate(1, 8);
+  var targetDate = calcTargetDate(settings.targetWeekday, settings.targetHour);
 
   return <>
     <header> 
