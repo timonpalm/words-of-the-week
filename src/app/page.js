@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import WordListContainer from "./components/wordListContainer";
+import { getWords } from "./components/getWords";
 
 // parse vocabulary from text file
 function create_vocabulary() {
@@ -19,8 +20,10 @@ function create_vocabulary() {
   return vocabulary;
 }
 
-export default function Home() {
+export default async function Home() {
+  
   const vocabulary = create_vocabulary();
+  var initWords = await getWords(vocabulary);
 
   return <>
     <header className="flex justify-between items-center mb-4">
@@ -29,7 +32,7 @@ export default function Home() {
       Settings
       </Link>
     </header>
-    <WordListContainer vocabulary={vocabulary}></WordListContainer>
+    <WordListContainer vocabulary={vocabulary} initWords={initWords}></WordListContainer>
   </>
 }
 

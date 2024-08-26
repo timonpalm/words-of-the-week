@@ -1,16 +1,19 @@
 "use client";
-import React from 'react'
 import { getWords } from './getWords'
 import WordList from './wordList';
+import { useState } from 'react';
 
-function WordListContainer({ vocabulary }) {
+export default function WordListContainer({ vocabulary, initWords}) {
 
-    const [words, setWords] = React.useState(getWords(vocabulary));
+    const [words, setWords] = useState(initWords);
 
-    function handleClick() {
+    async function handleClick() {
         console.log("clicked");
-        setWords(getWords(vocabulary));
+        var newWords = await getWords(vocabulary);
+        console.log(newWords);
+        setWords(newWords);
     }
+
 
     return (
         <div className="flew flex-col mx-auto items-center">
@@ -19,5 +22,3 @@ function WordListContainer({ vocabulary }) {
       </div>
     )
 }
-
-export default WordListContainer
