@@ -2,6 +2,7 @@ import Link from "next/link";
 import React from "react";
 import WordListContainer from "./components/wordListContainer";
 import { getWords } from "./components/getWords";
+import Countdown from "./components/countdown";
 
 // parse vocabulary from text file
 function create_vocabulary() {
@@ -28,6 +29,7 @@ export default async function Home() {
   return <>
     <header className="flex justify-between items-center mb-4">
       <h1 className="text-2xl">WORDS OF THE WEEK</h1>
+      <Countdown></Countdown>
       <Link className="border border-slate-300 text-slate-300 px-2 py-1 rounded hover:bg-slate-700 focus-within:bg-slate-700 outline-none" href="/settings">
       Settings
       </Link>

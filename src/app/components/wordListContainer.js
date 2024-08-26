@@ -10,10 +10,8 @@ export default function WordListContainer({ vocabulary, initWords}) {
     async function handleClick() {
         console.log("clicked");
         var newWords = await getWords(vocabulary);
-        console.log(newWords);
         setWords(newWords);
     }
-
 
     return (
         <div className="flew flex-col mx-auto items-center">
