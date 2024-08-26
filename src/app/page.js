@@ -15,7 +15,7 @@ function create_vocabulary() {
   var vocabulary = [];
 
   // split english-german
-  for (var i = 0; i < textByLine.length; i+=2) {
+  for (var i = 2; i < textByLine.length; i+=2) {
     vocabulary.push(textByLine[i].split("\t"));
   }
 
