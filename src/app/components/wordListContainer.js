@@ -1,15 +1,17 @@
 "use client";
-import { getWords } from './getWords'
+import { getWords } from '../../utils/getWords'
 import WordList from './wordList';
 import { useState } from 'react';
 
-export default function WordListContainer({ vocabulary, initWords}) {
+export default function WordListContainer({ vocabulary, initWords }) {
+    
+    //const settings = useContext(SettingsContext);
 
     const [words, setWords] = useState(initWords);
 
     async function handleClick() {
         console.log("clicked");
-        var newWords = await getWords(vocabulary);
+        var newWords = await getWords(vocabulary, settings.numberOfWords);
         setWords(newWords);
     }
 
