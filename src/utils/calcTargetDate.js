@@ -7,7 +7,5 @@ export function calcTargetDate(targetWeekday, targetHour) {
     targetDate.setDate(targetDate.getDate() + (((targetWeekday + 7 - targetDate.getDay()) % 7) || 7));
     targetDate.setHours(targetHour, 0, 0, 0);
 
-    console.log(targetDate.toLocaleString());
-
     return targetDate;
 }
