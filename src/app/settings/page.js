@@ -20,15 +20,18 @@ export default function Settings() {
         back
         </Link>
       </header>
-      <SettingBlock>
-        {weekday[settings.targetWeekday]} { settings.targetHour}:00
-      </SettingBlock>
-      <SettingBlock>
-        Number of words: {settings.numberOfWords}
-      </SettingBlock>
-      <SettingBlock>
-        Vocabulary File
+      <form>
+        <SettingBlock>
+          {weekday[settings.targetWeekday]} { settings.targetHour}:00
         </SettingBlock>
+        <SettingBlock>
+          <label htmlFor="quantity">Number of words: </label>
+          <input className="text-black"  type="number" id="quantity" name="quantity" min="5" max="30" defaultValue="20"></input>
+        </SettingBlock>
+        <SettingBlock>
+          <input type="file"></input>
+        </SettingBlock>
+      </form>
     </SettingsProvider>
   </>
 }
