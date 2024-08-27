@@ -5,26 +5,19 @@ import { getWords } from "../utils/getWords";
 import Countdown from "./components/countdown";
 import { calcTargetDate } from "@/utils/calcTargetDate";
 import { create_vocabulary } from "@/utils/getVocabulary";
-import fs from 'fs/promises';
 import SettingsProvider from "./components/settingsProvider";
-
-//const SettingsContext = React.createContext({});
-
-async function loadSettings() {
-  
-  const file = await fs.readFile(process.cwd() + '/settings.json', 'utf8');
-  const settings = JSON.parse(file);
-
-  return settings;
-}
+import { loadSettings } from "@/utils/loadSettings";
 
 export default async function Home() {
 
+  // load settings
   var settings = await loadSettings();
 
-  const vocabulary = create_vocabulary();
+  // create vocabulary and get initial list of words
+  const vocabulary = await create_vocabulary();
   var initWords = await getWords(vocabulary, settings.numberOfWords);
   
+  // calculate target date for next word update
   var targetDate = calcTargetDate(settings.targetWeekday, settings.targetHour);
 
   return <>

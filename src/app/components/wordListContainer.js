@@ -6,10 +6,13 @@ import { SettingsContext } from './settingsProvider';
 
 export default function WordListContainer({ vocabulary, initWords }) {
     
+    // load settings
     const settings = useContext(SettingsContext);
 
+    // inital list of words
     const [words, setWords] = useState(initWords);
 
+    // handle new word click
     async function handleClick() {
         var newWords = await getWords(vocabulary, settings.numberOfWords);
         setWords(newWords);

@@ -1,5 +1,7 @@
+"use server";
+
 // parse vocabulary from text file
-export function create_vocabulary() {
+export async function create_vocabulary() {
     // read file
     var fs = require("fs");
     var text = fs.readFileSync("./vocabulary.txt", "utf-8");
