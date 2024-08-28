@@ -18,17 +18,19 @@ export default async function Home () {
   // calculate target date for next word update
   var targetDate = calcTargetDate(settings.targetWeekday, settings.targetHour)
 
+  console.log('hier')
+
   return (
     <>
       <header>
         <h1 className='text-2xl'>WORDS OF THE WEEK</h1>
         <Countdown targetDate={targetDate}></Countdown>
-        <Link
+        <a
           className='border border-slate-300 text-slate-300 px-2 py-1 rounded hover:bg-slate-700 focus-within:bg-slate-700 outline-none'
           href='/settings'
         >
           Settings
-        </Link>
+        </a>
       </header>
       <WordListContainer
         vocabulary={vocabulary}

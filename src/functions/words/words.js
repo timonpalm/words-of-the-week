@@ -22,7 +22,6 @@ export async function getWords () {
 
 export async function saveWords (words) {
   const w = { words: words }
-  console.log(JSON.stringify(w, null, 2))
 
   await fs.writeFile(
     process.cwd() + '/public/words.json',
