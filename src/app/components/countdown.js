@@ -1,28 +1,28 @@
-"use client"
+'use client'
 import React from 'react'
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react'
 
-export default function Countdown({ targetDate}) {
+export default function Countdown ({ targetDate }) {
+  const [hours, setHours] = useState('-')
+  const [minutes, setMinutes] = useState('-')
+  const [seconds, setSeconds] = useState('-')
 
-    const [hours, setHours] = useState("-");
-    const [minutes, setMinutes] = useState("-");
-    const [seconds, setSeconds] = useState("-");
+  useEffect(() => {
+    const interval = setInterval(() => {
+      var now = new Date()
+      var diff = targetDate - now
 
-    useEffect(() => { 
+      setHours(Math.floor(diff / 1000 / 60 / 60))
+      setMinutes(Math.floor(diff / 1000 / 60) % 60)
+      setSeconds(Math.floor(diff / 1000) % 60)
+    }, 1000)
 
-        const interval = setInterval(() => {
-            var now = new Date();
-            var diff = targetDate - now;
+    return () => clearInterval(interval)
+  }, [])
 
-            setHours(Math.floor(diff / 1000 / 60 / 60));
-            setMinutes(Math.floor(diff / 1000 / 60) % 60);
-            setSeconds(Math.floor(diff / 1000) % 60);
-        }, 1000);
-
-        return () => clearInterval(interval);
-    }, [])
-
-    return (
-        <span className='text-red-700 mx-5 text-2xl'>{hours}:{minutes}:{seconds}</span>
-    )
+  return (
+    <span className='text-red-700 mx-5 text-2xl'>
+      {hours}:{minutes}:{seconds}
+    </span>
+  )
 }

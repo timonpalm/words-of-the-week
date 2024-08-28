@@ -19,3 +19,21 @@ header{
     border-radius: 0.25rem;
     margin-bottom: 1.5rem;
 }
+
+button{
+    border: 2px solid rgb(203 213 225);
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    /* text-slate-300
+    px-2
+    py-1
+    rounded
+    hover:bg-slate-700
+    focus-within:bg-slate-700
+    outline-none */
+}
+
+input, select{
+    color: #333;
+}
+

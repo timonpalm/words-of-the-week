@@ -1,27 +1,32 @@
-"use client";
-import { getWords } from '../../utils/getWords'
-import WordList from './wordList';
-import { useState, useContext } from 'react';
-import { SettingsContext } from './settingsProvider';
+'use client'
+import { createWords } from '@/functions/words/words'
+import WordList from './wordList'
+import { useState } from 'react'
+import { useSettings } from '@/functions/settings/useSettings'
+import { saveWords } from '@/functions/words/words'
 
-export default function WordListContainer({ vocabulary, initWords }) {
-    
-    // load settings
-    const settings = useContext(SettingsContext);
+export default function WordListContainer ({ vocabulary, initWords }) {
+  const settings = useSettings()
 
-    // inital list of words
-    const [words, setWords] = useState(initWords);
+  // initial list of words
+  const [words, setWords] = useState(initWords)
 
-    // handle new word click
-    async function handleClick() {
-        var newWords = await getWords(vocabulary, settings.numberOfWords);
-        setWords(newWords);
-    }
+  // handle new word click
+  async function handleClick () {
+    const newWords = await createWords(vocabulary, settings.numberOfWords)
+    saveWords(newWords)
+    setWords(newWords)
+  }
 
-    return (
-        <div className="flew flex-col mx-auto items-center">
-            <WordList words={words}></WordList>
-            <button className="bg-slate-700 text-slate-100 p-2 rounded my-5 mx-3" onClick={handleClick}>Spit new words</button>
-      </div>
-    )
+  return (
+    <div className='flew flex-col mx-auto items-center'>
+      <WordList words={words}></WordList>
+      <button
+        className='bg-slate-700 text-slate-100 p-2 rounded my-5 mx-3'
+        onClick={handleClick}
+      >
+        Spit new words
+      </button>
+    </div>
+  )
 }

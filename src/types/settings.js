@@ -1,22 +1,15 @@
-"use server";
-import { promises as fs } from 'fs';
+export class Settings {
+  constructor (numberOfWords, targetWeekday, targetHour) {
+    this.numberOfWords = numberOfWords
+    this.targetWeekday = targetWeekday
+    this.targetHour = targetHour
+  }
 
-// type Settings = {
-//   targetWeekday: number,
-//   targetHour: number,
-//   numberOfWords: number
-// }
-
-export async function loadSettings() {
-  
-    const file = await fs.readFile(process.cwd() + '/settings.json', 'utf8');
-    const settings = JSON.parse(file);
-
-    return settings;
+  static from_obj (settings_obj) {
+    return new Settings(
+      settings_obj.numberOfWords,
+      settings_obj.targetWeekday,
+      settings_obj.targetHour
+    )
+  }
 }
-
-// export async function saveSettings(settings) {
-    
-//     await fs.writeFile(process.cwd() + '/settings.json', JSON.stringify(settings, null, 2));
-    
-// }
