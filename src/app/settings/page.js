@@ -1,5 +1,4 @@
 'use client'
-import Link from 'next/link'
 import SettingBlock from './components/settingBlock'
 import { useSettings } from '@/functions/settings/useSettings'
 
@@ -14,7 +13,9 @@ export default function Settings () {
     'Saturday'
   ]
 
-  var settings = useSettings()
+  const [settings, setSettings] = useSettings()
+
+  console.log(settings)
 
   return (
     <>
@@ -39,8 +40,9 @@ export default function Settings () {
             <option value={6}>Saturday</option>
           </select>
           <input
+            id='hour'
             type='time'
-            defaultValue={settings ? settings.targetHour : ''}
+            defaultValue={settings ? settings.targetHour + ':00' : ''}
           ></input>
         </SettingBlock>
         <SettingBlock>
@@ -58,7 +60,9 @@ export default function Settings () {
           <input type='file'></input>
         </SettingBlock>
         <div>
-          <button type='submit'>Save</button>
+          <button type='submit' onSubmit={setSettings}>
+            Save
+          </button>
         </div>
       </form>
     </>

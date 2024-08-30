@@ -1,15 +1,10 @@
 'use client'
-import { createWords } from '@/functions/words/words'
+import { createWords, saveWords } from '@/functions/words/words'
 import WordList from './wordList'
-import { useState } from 'react'
 import { useSettings } from '@/functions/settings/useSettings'
-import { saveWords } from '@/functions/words/words'
 
-export default function WordListContainer ({ vocabulary, initWords }) {
-  const settings = useSettings()
-
-  // initial list of words
-  const [words, setWords] = useState(initWords)
+export default function WordListContainer ({ vocabulary, words, setWords }) {
+  const [settings, _] = useSettings()
 
   // handle new word click
   async function handleClick () {
