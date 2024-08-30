@@ -1,18 +1,14 @@
 'use client'
-
+import { getWords } from '@/functions/words/words'
 import React from 'react'
 import WordListContainer from './wordListContainer'
 import Link from 'next/link'
 import Countdown from './countdown'
-import { useState } from 'react'
+import { useWords } from '@/functions/words/useWords'
 
-export default function InteractionWrapper ({
-  settings,
-  vocabulary,
-  initWords
-}) {
+export default function InteractionWrapper ({ settings, vocabulary }) {
   // initial list of words
-  const [words, setWords] = useState(initWords)
+  const [words, setWords] = useWords()
 
   return (
     <>
