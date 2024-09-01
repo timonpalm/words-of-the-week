@@ -20,26 +20,24 @@ header{
     margin-bottom: 1.5rem;
 }
 
-button{
+button, input[type="submit"]{
     border: 2px solid rgb(203 213 225);
     border-radius: 0.25rem;
     padding: 0.25rem 0.5rem;
+    cursor: pointer;
     /* text-slate-300
     px-2
     py-1
     rounded
-    hover:bg-slate-700
     focus-within:bg-slate-700
     outline-none */
 }
 
-input[type="number"], input[type="time"], select{
-    color: #333;
+button:hover, input[type="submit"]:hover{
+    background-color: rgb(51 65 85);
 }
 
-input[type="submit"]{
-    border: 2px solid rgb(203 213 225);
-    border-radius: 0.25rem;
-    padding: 0.25rem 0.5rem;
+input[type="number"], input[type="time"], select{
+    color: #333;
 }
 

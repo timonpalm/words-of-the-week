@@ -4,16 +4,6 @@ import { useSettings } from '@/functions/settings/useSettings'
 import { saveSettings } from '@/functions/settings/settings'
 
 export default function Settings () {
-  const weekday = [
-    'Sunday',
-    'Monday',
-    'Tuesday',
-    'Wednesday',
-    'Thursday',
-    'Friday',
-    'Saturday'
-  ]
-
   const [settings, _] = useSettings()
 
   async function onSubmit (event) {
