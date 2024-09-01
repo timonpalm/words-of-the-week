@@ -14,9 +14,9 @@ export default function Countdown ({ settings, vocabulary, setWords }) {
     calcTargetDate(settings.targetWeekday, settings.targetHour)
   )
 
-  const [hours, setHours] = useState('-')
-  const [minutes, setMinutes] = useState('-')
-  const [seconds, setSeconds] = useState('-')
+  const [hours, setHours] = useState('00')
+  const [minutes, setMinutes] = useState('00')
+  const [seconds, setSeconds] = useState('00')
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -44,7 +44,9 @@ export default function Countdown ({ settings, vocabulary, setWords }) {
   return (
     <>
       <span className='text-red-700 mx-5 text-2xl'>
-        {hours}:{minutes}:{seconds}
+        {hours.toString().padStart(2, '0')}:
+        {minutes.toString().padStart(2, '0')}:
+        {seconds.toString().padStart(2, '0')}
       </span>
       <span>{targetDate.toDateString()}</span>
     </>
