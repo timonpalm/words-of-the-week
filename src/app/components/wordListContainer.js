@@ -17,7 +17,7 @@ export default function WordListContainer ({ vocabulary, words, setWords }) {
     <div className='flew flex-col mx-auto items-center'>
       <WordList words={words}></WordList>
       <button
-        className='bg-slate-700 text-slate-100 p-2 rounded my-5 mx-3'
+        // className='bg-slate-700 text-slate-100 p-2 rounded my-5 mx-3'
         onClick={handleClick}
       >
         Spit new words

@@ -33,7 +33,13 @@ button{
     outline-none */
 }
 
-input, select{
+input[type="number"], input[type="time"], select{
     color: #333;
+}
+
+input[type="submit"]{
+    border: 2px solid rgb(203 213 225);
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
 }
 

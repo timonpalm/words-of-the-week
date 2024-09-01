@@ -1,6 +1,7 @@
 'use client'
 import SettingBlock from './components/settingBlock'
 import { useSettings } from '@/functions/settings/useSettings'
+import { saveSettings } from '@/functions/settings/settings'
 
 export default function Settings () {
   const weekday = [
@@ -13,9 +14,19 @@ export default function Settings () {
     'Saturday'
   ]
 
-  const [settings, setSettings] = useSettings()
+  const [settings, _] = useSettings()
 
-  console.log(settings)
+  async function onSubmit (event) {
+    event.preventDefault()
+
+    const formData = new FormData(event.target)
+
+    await saveSettings({
+      targetWeekday: formData.get('weekday'),
+      targetHour: formData.get('hour'),
+      numberOfWords: formData.get('quantity')
+    })
+  }
 
   return (
     <>
@@ -28,7 +39,7 @@ export default function Settings () {
           Home
         </button>
       </header>
-      <form>
+      <form onSubmit={onSubmit}>
         <SettingBlock>
           <select name='weekday' id='weekday'>
             <option value={0}>Sunday</option>
@@ -60,9 +71,7 @@ export default function Settings () {
           <input type='file'></input>
         </SettingBlock>
         <div>
-          <button type='submit' onSubmit={setSettings}>
-            Save
-          </button>
+          <input type='submit'></input>
         </div>
       </form>
     </>
