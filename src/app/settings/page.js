@@ -2,6 +2,7 @@
 import SettingBlock from './components/settingBlock'
 import { useSettings } from '@/functions/settings/useSettings'
 import { saveSettings } from '@/functions/settings/settings'
+import { saveVocabularyFile } from '@/functions/getVocabulary'
 
 export default function Settings () {
   const [settings, _] = useSettings()
@@ -11,13 +12,19 @@ export default function Settings () {
 
     const formData = new FormData(event.target)
 
-    console.log(formData.get('weekday'))
+    const file = formData.get('file')
+    if (file.name !== '') {
+      const buffer = Buffer.from(await file.arrayBuffer())
+      await saveVocabularyFile(buffer.toString())
+      console.log('file saved')
+    }
 
     await saveSettings({
       targetWeekday: formData.get('weekday'),
-      targetHour: formData.get('time').slice(0, -2),
+      targetTime: formData.get('time').slice(0, -3),
       numberOfWords: formData.get('quantity')
     })
+    console.log('settings saved')
   }
 
   return (
@@ -33,7 +40,12 @@ export default function Settings () {
       </header>
       <form onSubmit={onSubmit}>
         <SettingBlock>
-          <select name='weekday' id='weekday'>
+          <select
+            name='weekday'
+            id='weekday'
+            defaultValue={settings ? settings.targetWeekday : 6}
+            encType='multipart/form-data'
+          >
             <option value={0}>Sunday</option>
             <option value={1}>Monday</option>
             <option value={2}>Tuesday</option>
@@ -46,7 +58,7 @@ export default function Settings () {
             id='time'
             name='time'
             type='time'
-            defaultValue={settings ? settings.targetHour + ':00' : ''}
+            defaultValue={settings ? settings.targetTime + ':00' : ''}
           ></input>
         </SettingBlock>
         <SettingBlock>
@@ -61,10 +73,10 @@ export default function Settings () {
           ></input>
         </SettingBlock>
         <SettingBlock>
-          <input type='file' id='file'></input>
+          <input type='file' id='file' name='file' accept='.txt'></input>
         </SettingBlock>
         <div>
-          <input type='submit'></input>
+          <input type='submit' value='Save Changes'></input>
         </div>
       </form>
     </>

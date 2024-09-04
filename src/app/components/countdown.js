@@ -11,7 +11,7 @@ export default function Countdown ({ settings, vocabulary, setWords }) {
   //var initDate = new Date(n.getTime() + 5000)
 
   const [targetDate, setTargetDate] = useState(
-    calcTargetDate(settings.targetWeekday, settings.targetHour)
+    calcTargetDate(settings.targetWeekday, settings.targetTime)
   )
 
   const [hours, setHours] = useState('00')
@@ -25,7 +25,7 @@ export default function Countdown ({ settings, vocabulary, setWords }) {
 
       if (diff <= 0) {
         setTargetDate(() =>
-          calcTargetDate(settings.targetWeekday, settings.targetHour)
+          calcTargetDate(settings.targetWeekday, settings.targetTime)
         )
         createWords(vocabulary, settings.numberOfWords).then(w => {
           saveWords(w)

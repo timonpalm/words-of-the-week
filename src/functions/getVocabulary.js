@@ -4,7 +4,7 @@
 export async function create_vocabulary () {
   // read file
   var fs = require('fs')
-  var text = fs.readFileSync('./vocabulary.txt', 'utf-8')
+  var text = fs.readFileSync('./public/vocabulary.txt', 'utf-8')
   var textByLine = text.split('\n')
 
   var vocabulary = []
@@ -15,4 +15,9 @@ export async function create_vocabulary () {
   }
 
   return vocabulary
+}
+
+export async function saveVocabularyFile (vocabularyFile) {
+  var fs = require('fs')
+  fs.writeFileSync('./public/vocabulary.txt', vocabularyFile)
 }

@@ -1,5 +1,5 @@
 {
-  "targetWeekday": "2",
-  "targetHour": "18:45:",
+  "targetWeekday": "6",
+  "targetTime": "20",
   "numberOfWords": "10"
 }
