@@ -11,9 +11,11 @@ export default function Settings () {
 
     const formData = new FormData(event.target)
 
+    console.log(formData.get('weekday'))
+
     await saveSettings({
       targetWeekday: formData.get('weekday'),
-      targetHour: formData.get('hour'),
+      targetHour: formData.get('time').slice(0, -2),
       numberOfWords: formData.get('quantity')
     })
   }
@@ -41,7 +43,8 @@ export default function Settings () {
             <option value={6}>Saturday</option>
           </select>
           <input
-            id='hour'
+            id='time'
+            name='time'
             type='time'
             defaultValue={settings ? settings.targetHour + ':00' : ''}
           ></input>
@@ -58,7 +61,7 @@ export default function Settings () {
           ></input>
         </SettingBlock>
         <SettingBlock>
-          <input type='file'></input>
+          <input type='file' id='file'></input>
         </SettingBlock>
         <div>
           <input type='submit'></input>
