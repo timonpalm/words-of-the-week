@@ -19,9 +19,11 @@ export default function Settings () {
       console.log('file saved')
     }
 
+    console.log(formData.get('time'))
+
     await saveSettings({
       targetWeekday: formData.get('weekday'),
-      targetTime: formData.get('time').slice(0, -3),
+      targetTime: formData.get('time'),
       numberOfWords: formData.get('quantity')
     })
     console.log('settings saved')
