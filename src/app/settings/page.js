@@ -5,13 +5,15 @@ import { saveSettings } from '@/functions/settings/settings'
 import { saveVocabularyFile } from '@/functions/getVocabulary'
 
 export default function Settings () {
-  const [settings, _] = useSettings()
+  const [settings, setSettings] = useSettings()
 
+  // handle submit event
   async function onSubmit (event) {
     event.preventDefault()
 
     const formData = new FormData(event.target)
 
+    // save vocabulary file
     const file = formData.get('file')
     if (file.name !== '') {
       const buffer = Buffer.from(await file.arrayBuffer())
@@ -19,13 +21,26 @@ export default function Settings () {
       console.log('file saved')
     }
 
+    // format time
+    var time = formData.get('time')
+    if (time.length === 8) {
+      time = time.slice(0, 5)
+    }
+
     console.log(formData.get('time'))
 
-    await saveSettings({
+    const s = {
       targetWeekday: formData.get('weekday'),
-      targetTime: formData.get('time'),
+      targetTime: time,
       numberOfWords: formData.get('quantity')
-    })
+    }
+
+    // save settings
+    await saveSettings(s)
+
+    // update settings
+    setSettings(s)
+
     console.log('settings saved')
   }
 
