@@ -26,13 +26,7 @@ export default function Home () {
     <>
       <header>
         <h1 className='text-2xl'>WEEKLY WORDS</h1>
-        <Countdown
-          settings={settings}
-          vocabulary={vocabulary}
-          setWords={setWords}
-          targetDate={targetDate}
-          setTargetDate={setTargetDate}
-        ></Countdown>
+        <Countdown targetDate={targetDate}></Countdown>
         <Link
           className='border border-slate-300 text-slate-300 px-2 py-1 rounded hover:bg-slate-700 focus-within:bg-slate-700 outline-none'
           href='/settings'

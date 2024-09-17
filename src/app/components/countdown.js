@@ -23,6 +23,7 @@ export default function Countdown ({
   useEffect(() => {
     const interval = setInterval(() => {
       // console.log('targetDate: ' + targetDate)
+      console.log('settings: ' + settings)
 
       if (!targetDate) {
         console.log('no target date')
@@ -56,7 +57,7 @@ export default function Countdown ({
     }, 1000)
 
     return () => clearInterval(interval)
-  }, [targetDate])
+  }, [targetDate, settings, vocabulary, setTargetDate, setWords])
 
   return (
     <>
